@@ -32,7 +32,7 @@ Follow these steps to set up and run the project on your local machine:
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/smart-ats.git
+   git clone https://github.com/ManasaMusunuri/Smart-ATS-.git
    cd smart-ats
    ```
 
